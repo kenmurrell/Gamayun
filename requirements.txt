@@ -1,0 +1,8 @@
+celery==4.4.7
+redis==3.5.3
+aiofiles==0.5.0
+fastapi==0.60.1
+pydantic~=1.7.3
+numpy~=1.19.4
+regex~=2020.11.13
+flower
